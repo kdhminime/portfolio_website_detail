@@ -1,0 +1,56 @@
+.letterContainer {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  font-size: 12pt;
+  margin-left: 1%;
+}
+.linkContainer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: flex;
+  justify-content: flex-end;
+  gap: 18px;
+  margin: 20px;
+  font-size: small;
+  font-family: "Roboto", sans-serif;
+}
+
+.tabsContainer {
+  font-family: "Roboto", sans-serif;
+}
+.searchBoxContainer {
+  display: flex;
+  margin-top: -4.5%;
+  margin-left: -30%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.textFieldOpen fieldset {
+  border-top-right-radius: 30pt;
+  border-top-left-radius: 30pt;
+  border-color: #696969;
+}
+.textFieldClose fieldset {
+  border-radius: 30pt;
+  border-color: #696969;
+}
+.letterD {
+  color: #4885ed;
+}
+.letterO {
+  color: #db3236;
+}
+.letterH {
+  color: #f4c20d;
+}
+.letterY {
+  color: #4885ed;
+}
+.letterU {
+  color: #3cba54;
+}
+.letterN {
+  color: #db3236;
+}
